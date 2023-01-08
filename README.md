@@ -1,0 +1,1 @@
+# quarkus-aws-lambda-dynamo-monitoring-poc
